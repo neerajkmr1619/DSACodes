@@ -1,0 +1,15 @@
+/Users/neerajkumar/Linkedlist/bin/Debug/net5.0/Linkedlist.deps.json
+/Users/neerajkumar/Linkedlist/bin/Debug/net5.0/Linkedlist.runtimeconfig.json
+/Users/neerajkumar/Linkedlist/bin/Debug/net5.0/Linkedlist.runtimeconfig.dev.json
+/Users/neerajkumar/Linkedlist/bin/Debug/net5.0/Linkedlist.dll
+/Users/neerajkumar/Linkedlist/bin/Debug/net5.0/ref/Linkedlist.dll
+/Users/neerajkumar/Linkedlist/bin/Debug/net5.0/Linkedlist.pdb
+/Users/neerajkumar/Linkedlist/obj/Debug/net5.0/Linkedlist.csprojAssemblyReference.cache
+/Users/neerajkumar/Linkedlist/obj/Debug/net5.0/Linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neerajkumar/Linkedlist/obj/Debug/net5.0/Linkedlist.AssemblyInfoInputs.cache
+/Users/neerajkumar/Linkedlist/obj/Debug/net5.0/Linkedlist.AssemblyInfo.cs
+/Users/neerajkumar/Linkedlist/obj/Debug/net5.0/Linkedlist.csproj.CoreCompileInputs.cache
+/Users/neerajkumar/Linkedlist/obj/Debug/net5.0/Linkedlist.dll
+/Users/neerajkumar/Linkedlist/obj/Debug/net5.0/ref/Linkedlist.dll
+/Users/neerajkumar/Linkedlist/obj/Debug/net5.0/Linkedlist.pdb
+/Users/neerajkumar/Linkedlist/obj/Debug/net5.0/Linkedlist.genruntimeconfig.cache
