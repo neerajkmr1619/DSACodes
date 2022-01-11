@@ -6,11 +6,9 @@ namespace Linkedlist{
 
       private Node tail = null;
 
-      private int size;
+      //private int size;
 
-      public DLL(){
-          this.size = 0;
-      }
+      
       public void insertFirst(int val){
           Node node = new Node(val);
           node.next = head;
@@ -57,6 +55,8 @@ namespace Linkedlist{
            node.next = insertNode;
            
            insertNode.next.prev = insertNode;
+         }else{
+             Console.WriteLine("Node not found "+ val);
          }
       }
        
@@ -69,18 +69,26 @@ namespace Linkedlist{
               }
               node = node.next;
           }
-          return node;
+          return null;
       } 
+
       public void display(){
           Node node = head;
-
+          Node last = node;
           while(node!= null){
               Console.Write(node.value + " -> ");
-
+              last = node;
               node = node.next;
-          }
 
-          Console.Write("End");
+          }
+          Console.Write("End\n");
+
+          while(last!= null){
+              Console.Write(last.value + " -> ");
+
+              last = last.prev;
+          }
+          Console.Write("Start");
       }
 
        public class Node

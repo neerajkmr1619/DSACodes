@@ -28,8 +28,8 @@ namespace Linkedlist
             dll.insertFirst(9);
             dll.insertLast(19);
             dll.display();
-            dll.insertAfterValue(5,17);
-            Console.WriteLine();
+            dll.insertAfterValue(25,17);
+            Console.WriteLine("\n");
             dll.display();
             
         }
